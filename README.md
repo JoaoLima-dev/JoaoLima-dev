@@ -1,4 +1,4 @@
-## Oi! Eu sou o João!
+## HI! Welcome to my profile!
 
 <div align="center">
   <a href="https://github.com/JoaoLima-dev">
